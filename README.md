@@ -1,2 +1,2 @@
 # Portfolio
-making my 1st portfolio, still learning
+1st 3D portfolio, onprocess
